@@ -1,0 +1,7 @@
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe.config
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.pdb
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.csprojAssemblyReference.cache
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.exe
+C:\Users\kasat\source\repos\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.pdb
